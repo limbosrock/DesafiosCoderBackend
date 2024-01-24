@@ -1,0 +1,81 @@
+[
+    {
+        "id":"verdura_01",
+        "tittle":"Tomate",
+        "category":"verdura",
+        "price":350,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2020/06/14/18/47/tomat-5298943_1280.jpg"
+    },
+
+    {
+        "id":"verdura_02",
+        "tittle":"Papa",
+        "category":"verdura",
+        "price":500,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2018/05/29/23/18/potato-3440360_1280.jpg"
+    },
+
+    {
+        "id":"verdura_03",
+        "tittle":"Zanahoria",
+        "category":"verdura",
+        "price":200,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2019/01/15/10/59/carrots-3933837_1280.jpg"
+    },
+
+    {
+        "id":"verdura_04",
+        "tittle":"Cebolla",
+        "category":"verdura",
+        "price":180,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2016/05/16/22/47/onions-1397037_1280.jpg"
+    },
+
+    {
+        "id":"verdura_05",
+        "tittle":"Zapallo",
+        "category":"verdura",
+        "price":250,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2018/08/10/22/31/butternut-squash-3597763_1280.jpg"
+    },
+
+    {
+        "id":"fruta_01",
+        "tittle":"Banana",
+        "category":"fruta",
+        "price":650,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2016/04/26/16/58/bananas-1354785_1280.jpg"
+    },
+
+    {
+        "id":"fruta_02",
+        "tittle":"Manzana",
+        "category":"fruta",
+        "price":450,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2018/08/02/21/51/apples-3580560_1280.jpg"
+    },
+
+    {
+        "id":"fruta_03",
+        "tittle":"Kiwi",
+        "category":"fruta",
+        "price":700,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2014/07/23/11/51/kiwifruit-400143_1280.jpg"
+    },
+
+    {
+        "id":"fruta_04",
+        "tittle":"Mandarina",
+        "category":"fruta",
+        "price":250,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2016/10/07/13/20/tangerines-1721563_1280.jpg"
+    },
+
+    {
+        "id":"fruta_05",
+        "tittle":"Limon",
+        "category":"fruta",
+        "price":200,
+        "pictureUrl":"https://cdn.pixabay.com/photo/2016/01/10/21/31/lemons-1132558_1280.jpg"
+    }
+]
